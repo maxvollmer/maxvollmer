@@ -1,16 +1,24 @@
-### Hi there 👋
+## Hi there! 🙋🏻‍♀️
 
-<!--
-**maxvollmer/maxvollmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Max! (they/them)
 
-Here are some ideas to get you started:
+I am a queer software engineer with a passion for games. I am the author of Half-Life: VR, DeepWoods for Stardew Valley, and RaftMMO.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌈 About Me in 30 Secs
+- 👩🏻‍💻 Chemical Biology student turned Software Engineer
+- 📝 Taught myself C++ and game development
+- 💼 8 years Java + 4 years C++ in AR/MR development
+- ⚡️ Got fired, now pursuing passion full time
+
+### 🔭 Check out my Current Projects
+- 🟠λ [Half-Life: VR](https://halflifevr.de/)
+- 🌳 [DeepWoods](https://www.nexusmods.com/stardewvalley/mods/2571/)
+- 🌊 [RaftMMO](https://www.raftmodding.com/mods/raftmmo)
+
+### 🙌🏻 Connect with Me
+- 🦄 [LinkedIn](https://www.linkedin.com/in/max-vollmer/)
+- 🌐 [Discord](https://discord.gg/jujwEGf62K)
+- 🎞️ [Youtube](https://www.youtube.com/c/MaxMakesMods)
+
+### 💖 Support Me
+- 💸 [Patreon](https://www.patreon.com/maxmakesmods)
