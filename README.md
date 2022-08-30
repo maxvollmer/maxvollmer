@@ -18,7 +18,8 @@ I am a queer software engineer with a passion for games. I am the author of Half
 ### 🙌🏻 Connect with Me
 - 🦄 [LinkedIn](https://www.linkedin.com/in/max-vollmer/)
 - 🌐 [Discord](https://discord.gg/jujwEGf62K)
-- 🎞️ [Youtube](https://www.youtube.com/c/MaxMakesMods)
+- 🎞️ [Youtube](https://www.youtube.com/MaxMakesMods)
 
 ### 💖 Support Me
 - 💸 [Patreon](https://www.patreon.com/maxmakesmods)
+- 🍵 [Ko-Fi](https://www.ko-fi.com/maxmakesmods)
