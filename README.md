@@ -23,3 +23,7 @@ I am a queer software engineer with a passion for games. I am the author of Half
 ### 💖 Support Me
 - 💸 [Patreon](https://www.patreon.com/maxmakesmods)
 - 🍵 [Ko-Fi](https://www.ko-fi.com/maxmakesmods)
+
+
+---
+⚖️ Impressum/Imprint (as required by German/EU law): https://www.halflifevr.de/impressum.html
