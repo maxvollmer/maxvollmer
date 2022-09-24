@@ -22,6 +22,7 @@ I am a queer software engineer with a passion for games. I am the author of Half
 
 ### 💖 Support Me
 - 🍵 [Ko-Fi](https://www.ko-fi.com/maxmakesmods)
+- 💸 [Patreon](https://www.patreon.com/maxmakesmods)
 
 
 ---
