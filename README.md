@@ -26,4 +26,4 @@ I am a queer software engineer with a passion for games. I am the author of Half
 
 
 ---
-⚖️ Impressum/Imprint (as required by German/EU law): https://www.maxmakesmods.de/impressum.html
+⚖️ Impressum/Imprint & Datenschutzerklärung/Privacy Policy: https://www.maxmakesmods.de/impressum.html
