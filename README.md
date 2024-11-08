@@ -16,8 +16,7 @@ I am a queer software engineer with a passion for games. I am the author of Half
 - 🌊 [RaftMMO](https://www.raftmodding.com/mods/raftmmo)
 
 ### 🙌🏻 Connect with Me
-- 🦄 [LinkedIn](https://www.linkedin.com/in/max-vollmer/)
-- 🌐 [Discord](https://discord.gg/jujwEGf62K)
+- 🦄 [Discord](https://discord.gg/jujwEGf62K)
 - 🎞️ [Youtube](https://www.youtube.com/MaxMakesMods)
 
 ### 💖 Support Me
