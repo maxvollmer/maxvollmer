@@ -6,9 +6,10 @@ I am a queer software engineer with a passion for games. I am the author of Half
 
 ### 🌈 About Me in 30 Secs
 - 👩🏻‍💻 Chemical Biology student turned Software Engineer
-- 📝 Taught myself C++ and game development
-- 💼 8 years Java | 4 years C++ in VR/XR | 20 years C++ in games
-- ⚡️ Took a sabbatical, now pursuing passion full time
+- 📝 Taught myself coding with 14
+- 💼 8 years Java in business
+- 🤖 7 years C++ in VR/XR
+- 🎮 20 years C# and C++ in games and mods
 
 ### 🔭 Check out my Current Projects
 - 🟠λ [Half-Life: VR](https://halflifevr.de/)
